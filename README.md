@@ -1,2 +1,2 @@
-# service-responces-ts
-Mindbox services typed standard responces.
+# service-responses-ts
+Mindbox services typed standard responses.
