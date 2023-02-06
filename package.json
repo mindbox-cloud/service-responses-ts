@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mindbox-moscow/service-responses-ts.git"
+    "url": "git+https://github.com/mindbox-cloud/service-responses-ts.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mindbox-moscow/service-responses-ts/issues"
+    "url": "https://github.com/mindbox-cloud/service-responses-ts/issues"
   },
-  "homepage": "https://github.com/mindbox-moscow/service-responses-ts#readme"
+  "homepage": "https://github.com/mindbox-cloud/service-responses-ts#readme"
 }
